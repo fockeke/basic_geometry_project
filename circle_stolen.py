@@ -41,7 +41,7 @@ if __name__ == '__main__':
  
     c2.color = 'red'  # Create a new attribute for this instance via assignment
     print(c2.color)
-    #print(c1.color)  # Error - c1 has no attribute color
+    # print(c1.color)  # Error - c1 has no attribute color
  
     # Test doc-strings
     print(__doc__)                  # This module
